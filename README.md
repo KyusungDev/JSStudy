@@ -1,6 +1,6 @@
-## 스터디 정리 노트
-## Learn JavaScript
+# 스터디 정리 노트
 
+### JavaScript
 **자바스크립트 jQuery 완전정복 스터디 1** (위키북스 / 김춘경)
 - [반복문, 함수](https://github.com/KyusungDev/JSStudy/wiki/javascript_jquery_basic_1_1) 
 - [함수 중급, 클로저](https://github.com/KyusungDev/JSStudy/wiki/javascript_jquery_basic_1_2) 
@@ -72,21 +72,22 @@
 - [Iteration, Spread, Destructuring, for-of](https://github.com/KyusungDev/JSStudy/wiki/ecmascript_3_1)
 - [Object](https://github.com/KyusungDev/JSStudy/wiki/ecmascript_4_1)
 
+### 기타
+- [크롬 동적 디버깅](크롬_동적_디버깅)
+- [SOP, JSON](https://github.com/KyusungDev/JSStudy/wiki/same_origin_policy)
+- [자바스크립트 내용 정리](https://github.com/KyusungDev/JSStudy/wiki/javascript_core)
+- [jQuery 이벤트 동작](https://github.com/KyusungDev/JSStudy/wiki/jquery_event_handling)
+- [자바스크립트 시작하기](https://github.com/KyusungDev/JSStudy/wiki/beginning_javascript)
+- [브라우저의 동작](https://github.com/KyusungDev/JSStudy/wiki/how_browsers_work)
+- [유니코드](https://github.com/KyusungDev/JSStudy/wiki/about_unicode)
+
+### C++
 **C++ 코딩의 기술**
 - [내용 요약](https://github.com/KyusungDev/JSStudy/wiki/cplusplus_coding_techniques)
 
+### Java
 **리팩토링**
 - [내용 요약 #1](https://github.com/KyusungDev/JSStudy/wiki/java_refactoring_1)
 - [내용 요약 #2](https://github.com/KyusungDev/JSStudy/wiki/java_refactoring_2)
 - [내용 요약 #3](https://github.com/KyusungDev/JSStudy/wiki/java_refactoring_3)
   
-## 기타
-- [크롬 동적 디버깅](크롬_동적_디버깅)
-- [SOP, JSON](https://github.com/KyusungDev/JSStudy/wiki/same_origin_policy)
-- [자바스크립트 내용 정리](https://github.com/KyusungDev/JSStudy/wiki/javascript_core)
-- [jQuery 이벤트 동작](https://github.com/KyusungDev/JSStudy/wiki/jquery_event_handling)
-
-## 기본
-- [자바스크립트 시작하기](https://github.com/KyusungDev/JSStudy/wiki/beginning_javascript)
-- [브라우저의 동작](https://github.com/KyusungDev/JSStudy/wiki/how_browsers_work)
-- [유니코드](https://github.com/KyusungDev/JSStudy/wiki/about_unicode)
